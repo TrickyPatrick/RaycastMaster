@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DrawColliders : MonoBehaviour {
+public class Asteroids : MonoBehaviour {
    public Sprite spriteDebug, sprite;
    float direction;
    Vector3 dirr;
